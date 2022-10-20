@@ -30,10 +30,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-[![MuhammedTalhaYAYLA's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhaYAYLA&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/mtalhaYAYLA)
-
-[![mtalhaYAYLA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?
-username=mtalhaYAYLA)](https://github.com/mtalhaYAYLA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhaYAYLA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![myayla's 42 stats](https://badge.mediaplus.ma/greenbinary/myayla?1337Badge=off&UM6P=off)](https://github.com/mtalhaYAYLA)
 
