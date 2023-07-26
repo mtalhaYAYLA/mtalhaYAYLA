@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in **Software,Machine,Entrepreneurship,Electronic**
 
-- 🌱 I’m currently learning **C**, **C++** and **SWİFT**
+- 🌱 I’m currently learning **C** **,** **C++** **,** **SWİFT** and **PYTHON**
 
 - 📫 How to reach me **m.talha.yayla@gmail.com**
 
