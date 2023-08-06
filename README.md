@@ -46,7 +46,7 @@
 
 |			Finished				| Description	| Projects |
 |:---------------:|:-----------:|:----:|
-[libft (circle 0)](https://github.com/emreyilmaz42/libft.git) | The goal of this project is to create your own C library| [![emyilmaz's 42 libft Score](https://badge42.vercel.app/api/v2/cl77m2j0n00110gmnsgi933ap/project/2542014)](https://projects.intra.42.fr/42cursus-libft/mine) |
+[libft (circle 0)](https://github.com/mtalhaYAYLA/42Cursus-Libft.git) | The goal of this project is to create your own C library| [![emyilmaz's 42 libft Score](https://badge42.vercel.app/api/v2/cl77m2j0n00110gmnsgi933ap/project/2542014)](https://projects.intra.42.fr/42cursus-libft/mine) |
 [get_next_line(circle 1)](https://github.com/emreyilmaz42/Get_Next_Line.git) | The aim of this project is to create a function <br>which read from file descriptor and return a line from fd | [![emyilmaz's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl77m2j0n00110gmnsgi933ap/project/2567968)](https://projects.intra.42.fr/42cursus-get_next_line/mine) |
 [ft_printf (circle 1)](https://github.com/emreyilmaz42/Ft_printf.git) | The purpose of this project is to make a copy of original printf function| [![emyilmaz's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl77m2j0n00110gmnsgi933ap/project/2572519)](https://projects.intra.42.fr/42cursus-ft_printf/mine) |
 [borntoberoot (circle1)](https://github.com/spacerunn/born2beroot.git) | The purpose is to test your network knowledge| [![emyilmaz's 42 born2beroot Score](https://badge42.vercel.app/api/v2/cl77m2j0n00110gmnsgi933ap/project/2615435)](https://projects.intra.42.fr/born2beroot/mine) |
