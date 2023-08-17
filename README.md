@@ -38,7 +38,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhaYAYLA&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhaYAYLA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![myayla's 42 stats](https://badge42.vercel.app/api/v2/cllfpyghp011608l5qezgi9mj/stats?cursusId=21&coalitionId=247)](https://github.com/JaeSeoKim/badge42)
+[![myayla's 42 stats](https://badge42.vercel.app/api/v2/cllfpyghp011608l5qezgi9mj/stats?cursusId=21&coalitionId=361)](https://github.com/JaeSeoKim/badge42)
 
 
 <p align="center">
